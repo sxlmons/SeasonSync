@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D39257E72DB8142A000937FE /* JournalApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JournalApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D39257E72DB8142A000937FE /* SeasonSync.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeasonSync.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D39257E92DB8142A000937FE /* JournalApp */ = {
+		D39257E92DB8142A000937FE /* SeasonSyncApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = JournalApp;
+			path = SeasonSyncApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		D39257DE2DB8142A000937FE = {
 			isa = PBXGroup;
 			children = (
-				D39257E92DB8142A000937FE /* JournalApp */,
+				D39257E92DB8142A000937FE /* SeasonSyncApp */,
 				D39257E82DB8142A000937FE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		D39257E82DB8142A000937FE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D39257E72DB8142A000937FE /* JournalApp.app */,
+				D39257E72DB8142A000937FE /* SeasonSync.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D39257E62DB8142A000937FE /* JournalApp */ = {
+		D39257E62DB8142A000937FE /* SeasonSync */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D39257F72DB8142B000937FE /* Build configuration list for PBXNativeTarget "JournalApp" */;
+			buildConfigurationList = D39257F72DB8142B000937FE /* Build configuration list for PBXNativeTarget "SeasonSync" */;
 			buildPhases = (
 				D39257E32DB8142A000937FE /* Sources */,
 				D39257E42DB8142A000937FE /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D39257E92DB8142A000937FE /* JournalApp */,
+				D39257E92DB8142A000937FE /* SeasonSyncApp */,
 			);
-			name = JournalApp;
+			name = SeasonSync;
 			packageProductDependencies = (
 			);
 			productName = JournalApp;
-			productReference = D39257E72DB8142A000937FE /* JournalApp.app */;
+			productReference = D39257E72DB8142A000937FE /* SeasonSync.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D39257E22DB8142A000937FE /* Build configuration list for PBXProject "JournalApp" */;
+			buildConfigurationList = D39257E22DB8142A000937FE /* Build configuration list for PBXProject "SeasonSync" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D39257E62DB8142A000937FE /* JournalApp */,
+				D39257E62DB8142A000937FE /* SeasonSync */,
 			);
 		};
 /* End PBXProject section */
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D39257E22DB8142A000937FE /* Build configuration list for PBXProject "JournalApp" */ = {
+		D39257E22DB8142A000937FE /* Build configuration list for PBXProject "SeasonSync" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D39257F52DB8142B000937FE /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D39257F72DB8142B000937FE /* Build configuration list for PBXNativeTarget "JournalApp" */ = {
+		D39257F72DB8142B000937FE /* Build configuration list for PBXNativeTarget "SeasonSync" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D39257F82DB8142B000937FE /* Debug */,
